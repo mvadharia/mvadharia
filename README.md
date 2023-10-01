@@ -26,12 +26,16 @@ and Pub-Sub classes for data transfer between systems.
 - Java Backend Microservices
 - Angular projects
 - Distributed Tracing via OpenTelemetryClient, Jaeger and Elasticsearch
-- Azure services like AppInsight, APM, sql db Managed Instance etc
+- Integration of various monitoring tool like AppInsight, Prometheus, Graphana
+- Integration of various security tool like Contrast, Twistlock etc to identify vulnerabilities and proactive resolve them from services.
+- Setting up infra resources on Microsoft Azure Cloud like Azure Kubernetes Service, App Service, Azure Managed Sql Instance etc
+- Terraform code to setup IAC for infra resources to easily deploy them to various environments.
+- Recently completed Disastor Recovery exercise including 40+ services to different secondary region in Microsoft Azure Cloud.
 
 ## 🌱 I'm currently learning
 
-- Angular
-- Azure Services
+- Terraform
+- Azure Services 
 
 ## 💼 Technical Skills
 
